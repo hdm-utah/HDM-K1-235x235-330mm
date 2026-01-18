@@ -1,6 +1,6 @@
 # HDM-K1-235x235-330mm
 This is the full release of the HDM-K1 Full Linear Rail Conversion for the K1, K1C, and K1SE.
-This version has been made free to the public in the spirit of being opensource. Future versions that enable use of specific hardware, larger build volume, and other special items will come. This repository is a work in progress and is going to change over time. If you have any questions about assembly, configurations, would like to purchase a kit visit https://hdm3d.com If you have any helpful comments, contact hdm.utah@gmail.com 
+This version has been made free to the public in the spirit of being opensource. Future versions that enable use of specific hardware, larger build volume, and other special items will come. This repository is a work in progress and is going to change over time. If you have any questions about assembly, configurations, contact hdm.utah@gmail.com 
 
 BOM: https://docs.google.com/spreadsheets/d/1aBV5vJDxfquFtGlmEfk50gEi6YJM3k4m7Adm8bcIWWw/edit?usp=sharing
 
